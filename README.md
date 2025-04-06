@@ -1,5 +1,5 @@
 
-# Teddy Anangwe - Portfolio
+# Brian Albert - Portfolio
 
 Welcome to my personal Portfolio! This portfolio showcases my skills, projects, and experience as a Fullstack Software Developer & Cybersecurity Analyst.
 
@@ -66,10 +66,8 @@ To deploy the portfolio using GitHub Pages:
 
 ## 📞 Contact
 
-📧 **Email**: [teddyanangwe@gmail.com](mailto:teddyanangwe@gmail.com)  
-🌍 **Website**: [teddy-anangwe.vercel.app](teddy-anangwe.vercel.app)  
-💼 **LinkedIn**: [https://linkedin.com/in/amalemba-anangwe](https://www.linkedin.com/in/amalemba-anangwe-a961b721b)  
-🐙 **GitHub**: [https://github.com/Scylla8434](https://github.com/Scylla8434)  
+📧 **Email**: [brianndesa262@gmail.com](mailto:teddyanangwe@gmail.com)  
+ 
 
 
 ### ⭐ If you like this portfolio, don't forget to star the repository!
