@@ -7,7 +7,7 @@ Welcome to my personal Portfolio! This portfolio showcases my skills, projects, 
 
 You can view the live version of my portfolio here:  
 
-🔹 **GitHub Pages**: [https://scylla8434.github.io/amalemba-anangwe/](https://scylla8434.github.io/amalemba-anangwe/)  
+🔹 **GitHub Pages**: [https://wizard254-ux.github.io/Albert_Portfolio/](https://wizard254-ux.github.io/Albert_Portfolio/)  
 
 
 ## 📜 About the Portfolio
